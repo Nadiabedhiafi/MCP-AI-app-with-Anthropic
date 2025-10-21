@@ -1,0 +1,13 @@
+[project]
+name = "my-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.71.0",
+    "fastapi>=0.119.1",
+    "mcp>=1.18.0",
+    "nest-asyncio>=1.6.0",
+    "python-dotenv>=1.1.1",
+]
